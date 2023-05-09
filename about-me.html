@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="">
+    <title>bot_history</title>
+    <link rel="stylesheet" href="about-me.css">
+    <link rel="shortcut icon" rel="x-icon" href="logo.png"/>
+</head>
+<body id="bb">
+ <img src="logo.png" id="ii"/> 
+  <img src="menu.png" id="menuBtn"/>
+  <nav id="sidenav">
+
+         <ul>
+
+           <li><a href="index.html">home</a></li>
+            <li><a href="about-me.html">about-me (the creator)</a></li>
+            <li><a href="Articles.html">Articles</a></li>
+            
+        </ul>
+  </nav>
+  <div id="dv">
+  <h1 id="h1">about the creator:</h1>  
+  <p id="ps">My name is Muhammad, a researcher in history and creator of content that summarizes the history of empires and kingdoms</p>  
+  </div>  
+  
+  
+    <script>
+
+
+
+        var mb = document.getElementById('menuBtn');
+
+        var sv = document.getElementById('sidenav');
+        sv.style.right = "-250px";
+        mb.onclick =function(){
+            if(sv.style.right == "-250px"){
+                sv.style.right = "0";
+            }else{
+                sv.style.right = "-250px";
+            }
+        }
+    </script>
+</body>

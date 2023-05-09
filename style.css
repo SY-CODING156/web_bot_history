@@ -1,0 +1,52 @@
+.i{
+  width:75px;
+}
+#sidenav{
+  width: 200px;
+    height: 100vh;
+    position: fixed;
+    right:-250px;
+    top:0;
+    background-color:#87CBB9;
+    z-index:1;
+}
+nav ul li{
+    list-style: none;
+    margin-top:30px;
+    margin-left:-20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-family:Sans-Serif;
+}
+#menuBtn{
+    width: 50px;
+    position: fixed;
+    right:20px;
+    top:20px;
+    z-index: 2;
+    cursor: pointer;
+}
+.b{
+  background-color:#506F77;
+}
+.h{
+  color:#FFFFFF;
+  font-family:Sans-Serif;
+}
+.p{
+  color:#FFFFFF;
+  font-family:Sans-Serif;
+}
+.you{
+  width:50px;
+  margin-right:100px;
+  margin-left:70px;
+  margin-top:100px;
+  cursor: pointer;
+}
+.tik{
+ width:50px; 
+   cursor: pointer;
+}

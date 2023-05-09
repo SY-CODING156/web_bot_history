@@ -1,0 +1,162 @@
+#ii{
+  width:75px;
+}
+#sidenav{
+  width: 200px;
+    height: 100vh;
+    position: fixed;
+    right:-250px;
+    top:0;
+    background-color:#87CBB9;
+    z-index:1;
+}
+nav ul li{
+    list-style: none;
+    margin-top:30px;
+    margin-left:-20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-family:Sans-Serif;
+}
+#menuBtn{
+    width: 50px;
+    position: fixed;
+    right:20px;
+    top:20px;
+    z-index: 2;
+    cursor: pointer;
+}
+#bb{
+  background-color:#506F77;
+}
+#h1{
+  color:#FFFFFF;
+  font-family:Sans-Serif;
+}
+#ps{
+  color:#FFFFFF;
+  font-family:Sans-Serif;
+}
+#v{
+  width:200px;
+  margin-bottom:-280px;
+}
+#vd{
+  margin-top:290px;
+  margin-left:67px;
+  color:#FFFFFF;
+  font-family:Sans-Serif;
+}
+#vu{
+  width:200px;
+  margin-bottom:-250px;
+  margin-left:80px;
+  margin-bottom:-100px;
+}
+#vh{
+  margin-top:130px;
+  margin-left:50px;
+  color:#FFFFFF;
+  font-family:Sans-Serif;
+}
+#vid{
+  width:200px;
+  margin-bottom:-250px;
+  margin-left:80px;
+  margin-bottom:-100px;
+}
+#hj{
+  margin-top:130px;
+  margin-left:50px;
+  color:#FFFFFF;
+  font-family:Sans-Serif;
+}
+#gg{
+  width:200px;
+  margin-bottom:-250px;
+  margin-left:80px;
+  margin-bottom:-100px;
+}
+.gg{
+  margin-top:130px;
+  margin-left:50px;
+  color:#FFFFFF;
+  font-family:Sans-Serif;
+}
+#uu{
+  width:300px;
+  margin-bottom:-200px;
+  margin-left:-20px;
+  margin-bottom:-130px;
+}
+.uu{
+  margin-top:130px;
+  margin-left:50px;
+  color:#FFFFFF;
+  font-family:Sans-Serif;
+}
+#oo{
+  width:200px;
+  margin-bottom:-250px;
+  margin-left:80px;
+  margin-bottom:-100px;
+}
+.oo{
+  margin-top:130px;
+  margin-left:50px;
+  color:#FFFFFF;
+  font-family:Sans-Serif;
+}
+#nn{
+  width:200px;
+  margin-bottom:-250px;
+  margin-left:80px;
+  margin-bottom:-100px;
+}
+.nn{
+  margin-top:130px;
+  margin-left:50px;
+  color:#FFFFFF;
+  font-family:Sans-Serif;
+}
+#lm{
+  width:200px;
+  margin-bottom:-220px;
+  margin-left:80px;
+}
+#ml{
+  width:200px;
+  margin-bottom:-220px;
+  margin-left:0px;
+}
+.l{
+  margin-top:225px;
+  color:#FFFFFF;
+  font-family:Sans-Serif;
+  margin-left:60px;
+  font-size:25px;
+}
+.pv{
+  width:120px;
+  margin-left:115px;
+}
+#ol{
+  margin-top:225px;
+  color:#FFFFFF;
+  font-family:Sans-Serif;
+  margin-left:90px;
+  font-size:25px;
+}
+#bn{
+  color:#FFFFFF;
+  font-family:Sans-Serif;
+}
+#imgmo{
+  width:350px;
+}
+#po{
+  color:#FFFFFF;
+  font-family:Sans-Serif;
+}
