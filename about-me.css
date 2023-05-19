@@ -141,6 +141,31 @@ nav ul li a{
 .pv{
   width:120px;
   margin-left:115px;
+
+
+position:relative;
+
+width:80px;
+
+text-align:center;
+
+margin:20px 10px;
+
+font-weight:bold;
+
+border:2px solid #3eff37;
+
+background:transparent;
+
+color:#fff;
+
+cursor:pointer;
+
+overflow:hidden;
+
+background-color:#3eff37;
+
+
 }
 #ol{
   margin-top:225px;
