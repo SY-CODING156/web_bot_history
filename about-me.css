@@ -139,9 +139,9 @@ nav ul li a{
   font-size:25px;
 }
 .pv{
-  width:120px;
-  left:115px;
+width:120px;
 
+left:130px;
 
 position:relative;
 
@@ -163,8 +163,9 @@ cursor:pointer;
 
 overflow:hidden;
 
-background-color:#3eff37;
-font-color:#DEDEDE;
+background-color:#08AD00;
+
+color:#DEDEDE;  
 
 }
 #ol{
