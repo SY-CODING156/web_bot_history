@@ -77,7 +77,7 @@ nav ul li a{
   width:200px;
   margin-bottom:-250px;
   margin-left:80px;
-  margin-bottom:-100px;
+  margin-margin-debottom:-100px;
 }
 .gg{
   margin-top:130px;
@@ -140,7 +140,7 @@ nav ul li a{
 }
 .pv{
   width:120px;
-  margin-left:115px;
+  left:115px;
 
 
 position:relative;
@@ -164,7 +164,7 @@ cursor:pointer;
 overflow:hidden;
 
 background-color:#3eff37;
-
+font-color:#DEDEDE;
 
 }
 #ol{
